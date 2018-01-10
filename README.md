@@ -1,2 +1,2 @@
 # Color-Guessing-Game
-This is just for learning 
+This was really fun to build!
